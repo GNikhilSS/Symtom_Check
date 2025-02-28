@@ -26,7 +26,7 @@ This application allows users to input symptoms and get predictions on possible 
 ### Installation
 1. Clone the repository:
    sh
-   git clone https://github.com/Symptom-Based-Disease-Predector.git
+   git clone https://github.com/GNikhilSS/Symptom_Check.git
    cd your-project-folder
    
 2. Install dependencies:
